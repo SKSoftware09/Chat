@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048230073317",
+    "firebase_url": "https://master-a0466.firebaseio.com",
+    "project_id": "master-a0466",
+    "storage_bucket": "master-a0466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048230073317:android:a28164a604e4827eb4550c",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048230073317-e3trtdr9l00b7e909gjhvtaf6dm64kq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSxDfuVRgigQGoF3qtEc9JjNrUZbRYsdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048230073317-e3trtdr9l00b7e909gjhvtaf6dm64kq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
